@@ -19,7 +19,8 @@ function whileLoop(number) {
 function doWhileLoop(array) {
   do {
   array.shift();
-  incrementVariable();
-} while (array.length > 0 && incrementVariable());
+} while (array.length > 0 && function incrementVariable() {
+  i = i + 1
+});
 return array
 }
