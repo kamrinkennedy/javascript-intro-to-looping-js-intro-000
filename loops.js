@@ -19,4 +19,4 @@ function whileLoop(number) {
 function doWhileLoop(array) {
   array.shift();
   incrementVariable();
-} while (array.length > 0 && incrementVariable());
+} while (array.length > 0 && incrementVariable() = false);
