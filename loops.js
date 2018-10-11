@@ -17,7 +17,7 @@ function whileLoop(number) {
 }
 
 function doWhileLoop(array) {
-  function incrementVariable() {
+  function incrementVariable(i) {
     i = i + 1
   }
   do {
