@@ -16,11 +16,11 @@ function whileLoop(number) {
   return 'done'
 }
 
-function doWhileLoop(array) {
-  do {
-  array.shift();
-} while (array.length > 0 && function incrementVariable() {
-  i = i + 1
-});
-return array
-}
+// function doWhileLoop(array) {
+//   do {
+//   array.shift();
+// } while (array.length > 0 && function incrementVariable() {
+//   i = i + 1
+// });
+// return array
+// }
